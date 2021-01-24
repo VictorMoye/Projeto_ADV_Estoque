@@ -1,0 +1,15 @@
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\Estoque ADV.accdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\ADV-35_ESTOQUE.exe.config
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\ADV-35_ESTOQUE.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\ADV-35_ESTOQUE.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.formMDI.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmFornecedor.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.Properties.Resources.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV-35_ESTOQUE.exe
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV-35_ESTOQUE.pdb
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmprodutos.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmConsFornecedor.resources
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\C# 2010\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmConsProduto.resources

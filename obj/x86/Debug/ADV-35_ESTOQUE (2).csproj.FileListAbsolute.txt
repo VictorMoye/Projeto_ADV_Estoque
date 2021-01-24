@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\Estoque ADV.accdb
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\ADV-35_ESTOQUE.exe.config
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\ADV-35_ESTOQUE.exe
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\bin\Debug\ADV-35_ESTOQUE.pdb
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV-35_ESTOQUE (2).csprojAssemblyReference.cache
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmConsFornecedor.resources
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmConsProduto.resources
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.formMDI.resources
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmFornecedor.resources
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.frmprodutos.resources
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV_35_ESTOQUE.Properties.Resources.resources
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV-35_ESTOQUE (2).csproj.GenerateResource.cache
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV-35_ESTOQUE (2).csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV-35_ESTOQUE.exe
+C:\Projetos\CSharp\Visual C# 2010 Express\Victor Hugo M. da Silva_11522\ADV-35_ESTOQUE\obj\x86\Debug\ADV-35_ESTOQUE.pdb
